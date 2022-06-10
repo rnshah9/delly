@@ -1,0 +1,5 @@
+project: delly
+target: delly
+cmds:
+  - cmd: /opt/delly/bin/delly filter -s /test.tsv fi
+    filepath: /test.tsv
